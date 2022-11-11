@@ -1,5 +1,5 @@
 # 스퀘어랩 SquareLab
-> **"괜찮은 거 같지 않아?"** <br>
+> **"아~"** <br>
 > 학부생끼리 만난 개발 소모임
 
 ##  SquareLab Contributors
